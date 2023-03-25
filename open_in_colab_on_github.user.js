@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Open in Colab on GitHub
 // @namespace    https://yakex.dev/
-// @version      0.0
+// @version      0.1
 // @description  Add "Open in Colab" badge on GitHub
 // @author       yak_ex
 // @match        https://github.com/*.ipynb
 // @match        https://gist.github.com/*
 // @run-at       document-idle
 // @grant        none
+// @downloadURL  https://github.com/yak1ex/userjs/raw/main/open_in_colab_on_github.user.js
+// @updateURL    https://github.com/yak1ex/userjs/raw/main/open_in_colab_on_github.user.js
 // ==/UserScript==
 // SPDX-License-Identifier: Unlicense
 
